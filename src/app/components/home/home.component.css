@@ -1,0 +1,14 @@
+.app-content {
+  min-height: 600px;
+  margin: 10px;
+}
+
+md-card {
+  width: 200px;
+  min-height: 400px;
+}
+
+
+md-grid-tile {
+   min-height: 400px;
+}
